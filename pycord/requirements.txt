@@ -1,0 +1,6 @@
+#Sachen die der bot braucht
+
+discord
+colorama
+python-dotenv
+tracemalloc
