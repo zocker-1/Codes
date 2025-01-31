@@ -1,3 +1,5 @@
+# Version 2
+# Wenn du diese main2.py verwendest, entferne die 2 beim namen sodass diese main.py heißt
 #Dies ist eine etwas fortgeschrittene Haupt Datei mit einer custom Start Nachricht
 
 import discord
