@@ -1,4 +1,5 @@
 # Version 1
+# Wenn du main1.py verwendest, entferne die 1 sodass diese main.py heißt!
 import discord
 from discord.ext import commands
 import os
