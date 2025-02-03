@@ -1,9 +1,6 @@
 #Sachen die der bot braucht
 
 discord
-colorama
-# colorama für main2.py
-python-dotenv
 colorama # Nur für main2.py
 python-dotenv
 
