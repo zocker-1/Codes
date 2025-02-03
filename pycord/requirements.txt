@@ -1,6 +1,6 @@
 #Sachen die der bot braucht
 
 discord
-colorama
+colorama # Nur für main2.py
 python-dotenv
-tracemalloc
+
