@@ -26,7 +26,7 @@ async def load_cogs():
                 print(f"✅ Cog {filename} geladen")
             except Exception as e:
                 print(f"❌ Fehler beim Laden von {filename}: {e}")
-
+# Dies ist der sogenannte Cogs Loader. Packe Datein darein und sie werden automatisch geladen. Es gibt auch einige Beispiele hier im Reposetorie
 @bot.event
 async def on_ready():
     """Wird ausgeführt, wenn der Bot startet."""
