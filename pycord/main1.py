@@ -1,6 +1,6 @@
-# Version 1.1
-# Diese Version beinhaltet einen besseren Cogs Loader und Status
-# Wenn du main1_1.py verwendest, entferne 1_1 sodass diese datei main.py heißt!
+# Version 1
+# Wenn du main1.py verwendest, entferne 1 sodass diese datei main.py heißt!
+
 import discord
 from discord.ext import commands
 import asyncio
