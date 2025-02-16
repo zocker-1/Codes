@@ -1,3 +1,6 @@
+# Version 2.1
+# Genauso wie die main2.py nur mit besseren Fehler Meldungen
+# Um diese main datei zu verwenden, entferne beim Namen 2-1 sodass die Datei nicht main2-1.py sondern main.py heißt
 import discord
 from discord.ext import commands
 import os
