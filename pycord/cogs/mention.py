@@ -1,3 +1,5 @@
+# Wenn man den Bot pingt mit @botname sagt er eine der festgelegten Antworten
+
 import discord
 import random
 from discord.ext import commands
