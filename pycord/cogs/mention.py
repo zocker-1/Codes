@@ -20,5 +20,5 @@ class MentionResponse(commands.Cog):
             msg = await message.channel.send(response)
             await msg.delete(delay=10)
 
-def setup(bot):
-   bot.add_cog(MentionResponse(bot))
+async def setup(bot):
+    await bot.add_cog(MentionResponse(bot))
