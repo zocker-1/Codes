@@ -77,7 +77,7 @@ async def load_cogs():
                 relative_module = os.path.relpath(module_path, base_path).replace(os.sep, ".")[:-3]
                 cog_name = f"{base_path}.{relative_module}"
                 try:
-                    bot.load_extension(cog_name)
+                    await bot.load_extension(cog_name)
                     print(Fore.GREEN + f"✅ Cog geladen: {cog_name}" + Style.RESET_ALL)
                 except Exception as e:
                     error_info = traceback.format_exc()
